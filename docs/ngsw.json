@@ -1,0 +1,84 @@
+{
+  "configVersion": 1,
+  "timestamp": 1592456549417,
+  "index": "https://pages.github.ibm.com/xujingcd/XjAngularExercise/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/5-es2015.9eb96556bdee64f241f8.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/5-es5.9eb96556bdee64f241f8.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/favicon.ico",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/index.html",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/main-es2015.3cd7849b22ba57284d24.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/main-es5.3cd7849b22ba57284d24.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/manifest.webmanifest",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/polyfills-es2015.1f913f16a2d346cc8bdc.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/polyfills-es5.1a3c78b07cd6f16c6e9a.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/runtime-es2015.308f61ccf2a1aa96d27c.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/runtime-es5.308f61ccf2a1aa96d27c.js",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/styles.f52187462d1cfca0d78e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-128x128.png",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-144x144.png",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-152x152.png",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-192x192.png",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-384x384.png",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-512x512.png",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-72x72.png",
+        "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/5-es2015.9eb96556bdee64f241f8.js": "36c17f9537312764cd8363865f4b69b00c5b1d99",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/5-es5.9eb96556bdee64f241f8.js": "8e3f81c3b01885df7f006b80009ad1e313264608",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/index.html": "8e718d3a4f91bb9395692aa5f47a82be0670eaf6",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/main-es2015.3cd7849b22ba57284d24.js": "514e6077fe4e5015d56a18d6a2431cee8b5b5127",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/main-es5.3cd7849b22ba57284d24.js": "6c780ac0c9a0a3b4c129a5ffdb838c3a225d6a04",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/manifest.webmanifest": "709adc485102c680cc47e31711c174870cb26d24",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/polyfills-es5.1a3c78b07cd6f16c6e9a.js": "4c46a59a04fcad729e7b2431f01c09b3d92070c4",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/runtime-es2015.308f61ccf2a1aa96d27c.js": "ef526f2a689ebf02b9955c5d32a30605b1933f53",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/runtime-es5.308f61ccf2a1aa96d27c.js": "6f9c00924b54d48ab8b8d1ec77438897a3e57ae3",
+    "https://pages.github.ibm.com/xujingcd/XjAngularExercise/styles.f52187462d1cfca0d78e.css": "507c9903e3b5f1b7df98b4ce2d9b9656a18abae0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
